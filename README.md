@@ -16,7 +16,7 @@ _Bruneau Léo, Bügel Sandor, Lanore Sébastien, Pellerin Maly, Rouquette Quenti
 
 ### Guide
 * Lancer la base Neo4J
-* Lancer l'API rest (python rest_api.py)
+* Lancer l'API rest (`python rest_api.py`)
 * Effectuer une requête GET vers l'API déployée (par défaut à localhost:5000) avec le format suivant:
 
 `http://localhost:5000/route/<latitudeSource>/<longitudeSource>/<latitudeDestination>/<longitudeDestination>`
