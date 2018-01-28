@@ -10,7 +10,7 @@ _Bruneau Léo, Bügel Sandor, Lanore Sébastien, Pellerin Maly, Rouquette Quenti
 ### Installation
 * Placez-vous dans le dossier d'installation et exécutez `pip install -r requirements.txt` pour installer les prérequis
 
-## Prétraitement des données
+### Prétraitement des données
 * Placer le fichier map dans le même dossier que preprocessing.py et exécuter `python preprocessing.py`
 * Importer les nouvelles données dans la base Neo4J
 
