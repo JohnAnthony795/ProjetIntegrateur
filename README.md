@@ -4,6 +4,12 @@ _Bruneau Léo, Bügel Sandor, Lanore Sébastien, Pellerin Maly, Rouquette Quenti
 ### Prérequis
 * Java 8
 * Une base Neo4J fonctionnelle
+* Python 2.7
+* L'outil de gestionnaire de paquets python pip
+
+### Installation
+* Placez-vous dans le dossier d'installation et exécutez
+    pip install -r requirements.txt
 
 ### Guide
 * Lancer la base Neo4J
